@@ -1,7 +1,7 @@
 ﻿// Learn more about F# at http://fsharp.org
 
 open System
-open Core.CableFix
+open Core.MapSolution
 
 [<EntryPoint>]
 let main argv =
